@@ -1,0 +1,6 @@
+Starting output()
+stil fine
+Dimensions of backtrace: 
+Depth (colors): 3
+Rows: 4
+Columns: 7
